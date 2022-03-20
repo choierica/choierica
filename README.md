@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, nice to meet you 👋
 
-<!--
-**choierica/choierica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erica Choi, a software engineer from Vancouver, BC. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a mobile application with my friends
+- 🌱 I’m currently learning python
+- 💬 Ask me about React, Node.js
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like to play piano and violin in my free time :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="#stats" align="center">
+    <img align="center" alt="Erica's Github Stats" src="https://github-readme-stats.vercel.app/api?username=choierica&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+</a>
